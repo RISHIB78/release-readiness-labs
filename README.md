@@ -21,7 +21,7 @@ Production Deployment
 git clone https://github.com/kalvium-devops/release-readiness-lab.git
 cd release-readiness-lab
 ```
-xvbmn,
+xvbmn,RRRRrrrrrrrrrrrrrrrrrrrr
 ### Install
 ```bash
 cd app
